@@ -1,0 +1,2 @@
+# Keep the exported analysis notebook out of GitHub language statistics
+analysis/*.html linguist-vendored
