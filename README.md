@@ -4,7 +4,7 @@ Frozen OpenCLIP encoders with a learned fusion head that classify an image–tex
 
 This is the CLIP track of a 4-person NUS DSA4266 group project (January–April 2026), which I designed and ran. Teammates Liu Qianru, Xu Yunhe and Yan Shuhe built the comparison models (ImageBind with LoRA and a MobileNetV2 + BiGRU baseline); that work is not in this repository.
 
-Despite the repository name, the task is multimodal safety classification. Jailbreak prompts are one of the 15 source categories in the benchmark, not the whole task.
+This repository was previously named `prompt-injection-clip`. Jailbreak prompts are one of the 15 source categories in the benchmark, not the whole task.
 
 ## Results
 
